@@ -1,0 +1,326 @@
+{
+  "site": {
+    "title": "Launchfolio",
+    "description": "Launch your portfolio with style"
+  },
+  "nav": {
+    "language": "Language",
+    "links": {
+      "work": "Work",
+      "services": "Service",
+      "about": "Abouts",
+      "faq": "FAQ"
+    },
+    "launching": "Launching soon"
+  },
+  "hero": {
+  "availableFor": "Available for",
+  "mainHeading": "AI/ML Engineer & Software Developer. Building Intelligent Solutions.",
+  "subheading": "I build <span>AI-powered applications</span> and <span>modern software solutions</span> that help businesses innovate and grow.",
+  "sublist1": "Developing AI, Machine Learning, and automation solutions tailored to real-world problems.",
+  "sublist2": "Creating modern, scalable web and mobile applications with intuitive user experiences.",
+  "sublist3": "Building reliable, future-ready software using Python, Flutter, React, and modern development practices.",
+  "ctaPrimary": "Get Started",
+  "ctaSecondary": "View Projects"
+},
+  "heroCards": {
+    "whoIWorkWith": {
+      "title": "Who I Work With",
+      "items": [
+        "Startups & Innovators",
+        "Established Businesses",
+        "Creative Agencies",
+        "Solo Entrepreneurs"
+      ]
+    },
+    "whatIDo": {
+    "title": "What I Do",
+    "items": [
+    "AI & Machine Learning",
+    "Generative AI Applications",
+    "AI Agents & Automation",
+    "Flutter Mobile Apps",
+    "Cross-Platform Development",
+    "Python Backend Development",
+    "REST API Integration",
+    "Custom AI Solutions",
+    "App Performance Optimization"
+   ]
+   },     
+    "techStackTitle": "Tech Stack I Work With",
+    "viewAll": "View all"
+  },
+  "contactSection": {
+    "reachOut": "Feel free to reach out to me",
+    "poland": "Dhaka, local time:",
+    "prompt": {
+      "emailDefault": "Send me an email",
+      "emailHover": "Open in your mail app",
+      "copyHover": "Copy to clipboard"
+    }
+  },
+  "experience": {
+    "myexperience": "My Experience",
+    "now": "Now"
+  },
+  "features": {
+    "heading": "Everything you need",
+    "subheading": "Launch your portfolio with these powerful features",
+    "feature1": {
+      "title": "Responsive Design",
+      "description": "Looks great on any device, from mobile to desktop"
+    },
+    "feature2": {
+      "title": "SEO Optimized",
+      "description": "Rank higher in search engines and get more visitors"
+    },
+    "feature3": {
+      "title": "Fast Loading",
+      "description": "Optimized for speed and performance"
+    },
+    "feature4": {
+      "title": "Easy Customization",
+      "description": "Customize to match your brand and style"
+    }
+  },
+  "pricing": {
+    "heading": "Simple, transparent pricing",
+    "subheading": "Start for free, upgrade when you need",
+    "basic": {
+      "title": "Basic",
+      "price": "$0",
+      "description": "Perfect for getting started",
+      "features": [
+        "Single page portfolio",
+        "Basic customization",
+        "Community support",
+        "1GB storage"
+      ],
+      "cta": "Start for free"
+    },
+    "pro": {
+      "title": "Pro",
+      "price": "$9",
+      "period": "/month",
+      "description": "Great for professionals",
+      "features": [
+        "Multi-page portfolio",
+        "Advanced customization",
+        "Priority support",
+        "10GB storage",
+        "Custom domain"
+      ],
+      "cta": "Get Pro"
+    },
+    "premium": {
+      "title": "Premium",
+      "price": "$29",
+      "period": "/month",
+      "description": "For serious creators",
+      "features": [
+        "Unlimited pages",
+        "Full customization",
+        "24/7 support",
+        "Unlimited storage",
+        "Multiple domains",
+        "Analytics dashboard"
+      ],
+      "cta": "Get Premium"
+    }
+  },
+  "contact": {
+    "heading": "Get in touch",
+    "subheading": "Have questions? We're here to help",
+    "nameLabel": "Name",
+    "emailLabel": "Email",
+    "messageLabel": "Message",
+    "submitButton": "Send Message",
+    "newsletter": {
+      "heading": "Subscribe to our newsletter",
+      "description": "Get updates, tips and special offers delivered directly to your inbox",
+      "placeholder": "Enter your email",
+      "button": "Subscribe"
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 Launchfolio. All rights reserved.",
+    "links": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "contact": "Contact"
+    }
+  },
+  "work": {
+    "featuredWork": "Featured Work",
+    "projectLogoAlt": "{projectName} logo",
+    "projects": {
+      "realm-of-dungeons": {
+        "name": "Realm of Dungeons",
+        "shortDescription": "Dark fantasy pixel art mobile idle RPG. UI-based retro progression inspired by classics like Gladiatus & S&F. Made in React Native with Expo.",
+        "state": "Launching soon on App Store and Google Play"
+      },
+      "unnoto-system": {
+        "name": "Unnotosystems",
+        "shortDescription": "AI-powered software startup building intelligent applications and automation solutions.",
+        "state": "Public Launch"
+      },
+      "feedback-widget": {
+        "name": "Feedback Widget",
+        "shortDescription": "Feedback widget that can be embedded on websites to collect feedback and send console logs with page screenshots.",
+        "state": "Used in 10+ projects"
+      },
+      "konva-moodboard": {
+        "name": "Konva Moodboard",
+        "shortDescription": "Web app to create and export canvas moodboards with custom images.",
+        "state": "28+ stars on GitHub"
+      },
+      "one-place": {
+        "name": "One-place",
+        "shortDescription": "CRUD admin panel to manage business based on orders, that don't need online shop.",
+        "state": "44+ stars on GitHub"
+      },
+      "automation-bot": {
+        "name": "Oferia.pl Automation bot",
+        "shortDescription": "Custom-made bot that automates the insertion of offers on a IT freelancing portal",
+        "state": "Was active 24/7 between 2021-2023"
+      }
+    }
+  },
+  "services": {
+    "mainHeading1": "Let's build success",
+    "mainHeading2": "My core services.",
+    "techStackCategories": {
+      "frontend": "AI & Machine Learning",
+      "backend": "App Development",
+      "websites": "Database",
+      "other": "Tools"
+    },
+"serviceItems": {
+  "pythonDevelopment": "Python Development",
+  "flutterDevelopment": "Flutter App Development",
+  "firebaseIntegration": "Firebase Integration",
+  "restApiDevelopment": "REST API Development",
+  "machineLearning": "Machine Learning Projects",
+  "dataAnalysis": "Data Analysis",
+  "automationScripts": "Python Automation Scripts",
+  "databaseDesign": "Database Design",
+  "aiModelIntegration": "AI Model Integration"
+},
+    "techLabels": {
+      "flutter": "Flutter",
+      "python": "Python",
+      "reactNative": "React Native",
+      "nextjs": "Next.js",
+      "tailwindCss": "Tailwind CSS",
+      "framerMotion": "Framer Motion",
+      "radixUi": "Radix UI",
+      "nodejs": "Node.js",
+      "prisma": "Prisma",
+      "postgresql": "PostgreSQL",
+      "mongodb": "MongoDB",
+      "gatsby": "Gatsby",
+      "wordpress": "WordPress",
+      "html5": "HTML5",
+      "git": "git",
+      "docker": "Docker",
+      "cypress": "Cypress",
+      "figma": "Figma",
+      "firebase": "Firebase",
+      "dart": "Dart",
+      "mysql": "MySQL",
+      "firestore": "Firestore",
+      "github": "GitHub",
+      "jupyterNotebook": "Jupyter Notebook",
+      "postman": "Postman",
+      "numpy": "NumPy",
+      "pandas": "Pandas",
+      "scikitLearn": "Scikit-learn",
+      "tensorflow": "TensorFlow",
+      "pytorch": "PyTorch",
+      "opencv": "OpenCV"
+      
+    }
+  },
+  "about": {
+    "headingPart1": "My development philosophy",
+    "headingPart2": "Code that works, solutions that last.",
+    "name": "Md Raisul Islam",
+    "copyEmailPrompt": "Press <kbd>C</kbd> to copy my email",
+    "emailCopiedToast": "Email copied to clipboard",
+    "socials": {
+      "email": "Email",
+      "x": "X.com",
+      "github": "GitHub",
+      "linkedin": "LinkedIn"
+    },
+   "paragraphs": [
+  "For me, successful development means creating intelligent software that solves real-world problems and delivers meaningful results. I combine <technicalExpertise>strong Python programming skills</technicalExpertise> with growing expertise in <technicalExpertise>Artificial Intelligence & Machine Learning</technicalExpertise> and <technicalExpertise>Flutter</technicalExpertise> to build practical and innovative solutions.",
+
+  "This approach enables me to develop applications that are not only <powerfulAndEfficient>efficient, reliable, and user-focused</powerfulAndEfficient> but also capable of solving real business challenges. I prioritize <scalableArchitecture>clean architecture and maintainable code</scalableArchitecture> because they ensure <scalableArchitecture>scalability</scalableArchitecture>, <scalableArchitecture>performance</scalableArchitecture>, and <scalableArchitecture>long-term</scalableArchitecture> project success.",
+
+  "Ultimately, my goal is to build solutions that are <robustMaintainable>robust, scalable, and future-ready</robustMaintainable>, combining modern software development with AI technologies to deliver <realWorldValue>real-world value</realWorldValue> for businesses and users."
+]
+  },
+  "testimonials": {
+    "headingPart1": "What clients say",
+    "headingPart2": "about my work.",
+    "testimonial1": {
+      "name": "Aleksandra Łukaszenia",
+      "company": "Skrzynka Synka",
+      "text": "I recommend Christopher's services. Full professionalism and commitment! Quick implementation!"
+    },
+    "testimonial2": {
+      "name": "Iwona Troc",
+      "company": "Mental Coach",
+      "text": "I recommend working with Christopher. I commissioned a website and I am very satisfied. Full professionalism, reliability, quick execution. Big plus for flexibility and communicativeness."
+    },
+    "testimonial3": {
+      "name": "Michał W.",
+      "company": "EuroOil",
+      "text": "I recommend working with Chris. Very good contact. Quick implementation. The best offer I got when looking for a contractor, recommend!"
+    },
+    "testimonial4": {
+      "name": "Paweł Oliwa",
+      "company": "PMI Geodezja",
+      "text": "I recommend Christopher's services. Very good contact. Quick implementation. Affordable prices. The best offer I found."
+    },
+    "testimonial5": {
+      "name": "Wojciech B.",
+      "company": "WB Hale",
+      "text": "I highly recommend working with Chris. Everything went through smoothly, even after the work was done there was no problem with further contact and performing further services."
+    },
+    "testimonial6": {
+      "name": "Tomasz M.",
+      "company": "Nagrobki Michno",
+      "text": "Christopher's execution of the commissioned work went smoothly. I highly recommend his services."
+    }
+  },
+  "faq": {
+    "headingPart1": "Your questions",
+    "headingPart2": "answered.",
+    "cta": {
+      "profileAlt": "Krzysztof Zaleski",
+      "stillNotSure": "Still not sure?",
+      "sendEmail": "Send me an email.",
+      "description": "Whether you have a question, need a quote, or want to discuss your ideas, feel free to reach out."
+    },
+   "items": {
+  "faq1": {
+    "question": "How long does a typical project take to complete?",
+    "answer": "Project timelines depend on the complexity, features, and requirements. Simple Python scripts or automation tools may take a few days, while Flutter applications, AI/ML projects, or complete software solutions typically take several weeks to a few months. After discussing your project, I'll provide a clear timeline and development plan."
+  },
+  "faq2": {
+    "question": "What technologies do you work with?",
+    "answer": "I primarily work with <figmaAdobe>Python, Flutter, Firebase, and AI/ML technologies</figmaAdobe>. I also build REST APIs, automation tools, and data-driven applications. My goal is to create <codeAccuratelyReflects>efficient, scalable, and user-friendly solutions</codeAccuratelyReflects> that solve real-world problems."
+  },
+  "faq3": {
+    "question": "What makes your development process unique?",
+    "answer": "My development process focuses on <communicationCollaborationQuality>clear communication, continuous learning, and writing high-quality code</communicationCollaborationQuality>. I prioritize clean architecture, maintainable code, and practical solutions. Whether it's a Flutter app, Python automation, or an AI-powered application, I aim to deliver <robustScalableProduct>reliable, scalable, and future-ready software</robustScalableProduct>."
+  },
+  "faq4": {
+    "question": "Do you provide support after project completion?",
+    "answer": "Yes. I offer <supportMaintenancePackages>ongoing support, maintenance, and feature improvements</supportMaintenancePackages> after project delivery. This includes bug fixes, performance optimization, updates, and technical assistance to ensure your application continues to run smoothly. I can also create a <tailoredPlan>custom support plan based on your project's requirements</tailoredPlan>."
+  }
+}
+  }
+}
