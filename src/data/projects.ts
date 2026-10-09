@@ -20,17 +20,17 @@ import unnotosystsimage from '@/assets/images/work/unnotosystems.png'
   }
 
   export const projects: Project[] = [
-    {
-      name: 'Realm of Dungeons',
-      shortDescription:
-        'Dark fantasy pixel art mobile idle RPG. UI-based retro progression inspired by classics like Gladiatus & S&F. Made in React Native with Expo.',
-      year: '2025',
-      image: rod.src,
-      logo: rodlogo.src,
-      slug: 'realm-of-dungeons',
-      state: 'Launching soon on App Store and Google Play',
-      github: ''
-    },
+    // {
+    //   name: 'Realm of Dungeons',
+    //   shortDescription:
+    //     'Dark fantasy pixel art mobile idle RPG. UI-based retro progression inspired by classics like Gladiatus & S&F. Made in React Native with Expo.',
+    //   year: '2025',
+    //   image: rod.src,
+    //   logo: rodlogo.src,
+    //   slug: 'realm-of-dungeons',
+    //   state: 'Launching soon on App Store and Google Play',
+    //   github: ''
+    // },
     {
       name: 'Unnotosystems',
       shortDescription:
