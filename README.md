@@ -97,7 +97,3 @@ npm run build
 This project is created for personal portfolio and showcasing purposes.
 
 ---
-
-**Designed & Developed by Md Raisul Islam**
-
-*Building ideas into reality through code.*
