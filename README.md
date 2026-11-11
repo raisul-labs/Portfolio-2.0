@@ -91,9 +91,6 @@ npm run build
 - **GitHub:** [raisul-labs](https://github.com/raisul-labs)
 - **LinkedIn:** [Md Raisul Islam](https://www.linkedin.com/in/raisulislam101)
 
-## Deployment
-
-This portfolio is designed for deployment on [Vercel](https://vercel.com/).
 
 ## License
 
